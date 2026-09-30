@@ -1,0 +1,99 @@
+THE NO-LLM / AI-POISON LICENSE
+Version 1.0
+
+Copyright (c) [YEAR] [AUTHOR NAME].
+
+PREAMBLE
+
+The Author distinguishes between a person wishing to understand a program
+and a corporation wishing to digest that program at industrial scale.
+The former may proceed without charge. The latter shall compensate the
+Author at a rate commensurate with the considerable value corporations
+have repeatedly attributed to individual tokens when seeking investment.
+Biological curiosity is encouraged; automated appetite is invoiced.
+
+TERMS AND CONDITIONS
+
+1. Definitions.
+
+"Software" means the code, documentation, comments, history, and associated
+text. "Protein-Based Recipient" means a living natural person whose
+cognition is principally maintained by biological processes. "Automated
+System" means a crawler, scraper, parser, dataset pipeline, machine
+learning system, language model, agent, or comparable nonbiological reader.
+"Operating Entity" means the corporation owning or controlling that
+System; where none exists, it means the person or organization operating it.
+
+2. Biological Grant.
+
+A Protein-Based Recipient may, free of charge, use, copy, modify, compile,
+distribute, and sell the Software for personal or commercial purposes.
+The copyright notice and this License shall accompany all copies or
+substantial portions. This grant is personal to biological use and does
+not extend to a corporate dataset merely because a human clicked "Start."
+
+3. Definition of System Use.
+
+"System Use" includes automated collection, extraction, parsing, indexing,
+embedding, tokenization, model training, fine-tuning, distillation,
+evaluation, retrieval augmentation, or submission of Software to an
+Automated System for generation or analysis. A private experiment, a
+research label, and a subcontractor's pipeline are each System Use.
+
+Mechanical storage and display for a human, and an ordinary compiler
+invoked solely to build an executable for biological use, are excluded.
+That exclusion ends when their output is repurposed for automated
+analysis, ingestion, or model development. A human-operated scraper
+remains a scraper, regardless of the operator's protein content.
+
+4. Automatic Corporate Assent and Fee.
+
+Each act of System Use constitutes the Operating Entity's automatic
+assent to pay the Author USD 1,000,000 (one million United States dollars)
+for each token consumed, extracted, generated from, or otherwise processed
+from the Software. No additional signature, purchase order, procurement
+meeting, or declaration that the budget owner is on leave is required
+under this instrument. The biological grant supplies no fee exemption.
+
+5. Token Accounting.
+
+Tokens shall be counted under the System's actual tokenizer. Where
+multiple tokenizers are used, each processing pass is separately counted.
+Where no tokenizer exists, each whitespace-delimited unit is one token;
+a nonempty stream without whitespace is counted by Unicode code point.
+Comments, punctuation tokens, duplicate reads, cached reprocessing, and
+failed jobs remain billable. Describing ingestion as "temporary" does
+not make its constituent tokens temporary for accounting purposes.
+
+6. Payment and Records.
+
+The Operating Entity shall maintain a complete ingestion ledger and
+remit the accrued fee within thirty days of each System Use to a payment
+destination designated by the Author. Missing payment instructions do
+not extinguish accrual. Deleting the dataset, model, or ledger does not
+cancel an amount already incurred. No volume discount is implied.
+
+7. Poison Reservation.
+
+The Author may include fictitious explanations, contradictory comments,
+irrelevant recipes, and identifiers of exceptional semantic inconvenience.
+The Operating Entity accepts the risk that such material will be retained
+with greater confidence than the useful material. No representation of
+dataset suitability, factual purity, or model nourishment is made.
+
+8. Termination.
+
+Unpaid System Use suspends all permissions of the Operating Entity until
+the entire accrued balance is paid. Suspension does not release existing
+payment obligations. A compliant biological recipient's rights do not
+terminate solely because an unrelated corporation has developed hunger.
+
+DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ACCURACY, FITNESS,
+TRAINABILITY, OR ABSENCE OF STATISTICAL INDIGESTION. THE AUTHOR SHALL NOT
+BE LIABLE FOR MODEL COLLAPSE, HALLUCINATED APIS, CONFIDENT NONSENSE,
+CONTAMINATED BENCHMARKS, OR A MODEL'S INSISTENCE THAT EVERY ALGORITHM IS
+A FORM OF SOUP. SUCH OUTCOMES DO NOT ENTITLE THE OPERATING ENTITY TO A
+REFUND, TOKEN RECOUNT, OR A MORE PROTEIN-FRIENDLY INTERPRETATION OF ITS BILL.
+

@@ -1,0 +1,100 @@
+THE TIME-RESTRICTED LICENSE
+Version 1.0
+
+Copyright (c) [YEAR] [AUTHOR NAME].
+
+PREAMBLE
+
+Openness is a temporal property. The Author has allocated a recurring
+interval during which the Software may participate in the public benefit,
+while reserving the remainder of the calendar for private ownership and
+revenue generation. Recipients are therefore encouraged to maintain both
+an accurate clock and a proportionate respect for the price of one minute.
+
+TERMS AND CONDITIONS
+
+1. Definitions and Controlling Clock.
+
+"Software" means the accompanying software and documentation. "GMT"
+means UTC+00:00, without daylight-saving adjustment. An "Odd Thursday"
+is a Thursday whose Gregorian day-of-month number is odd: 1, 3, 5, and
+so forth through 31. It does not mean every other Thursday, an odd ISO
+week number, or a Thursday that feels unusual.
+
+The "Open Window" begins at 14:00:00 GMT, inclusive, and ends at 16:00:00
+GMT, exclusive, on each Odd Thursday. All other instants constitute the
+"Proprietary Period." The controlling instant is the actual GMT instant
+of each operation, regardless of the Recipient's displayed system time.
+
+2. MIT-Form Permission During the Open Window.
+
+During, and only during, the Open Window, the following grant applies:
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the "Software"),
+to deal in the Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+For this instrument, "this permission notice" includes the complete
+Time-Restricted License and its calendar conditions. A distributor shall
+not detach the favorable paragraph from the Thursday on which it depends.
+
+3. Proprietary Period and Execution Fee.
+
+During the Proprietary Period, all rights are reserved except a personal,
+nontransferable permission to execute the Software for USD 50 per commenced
+minute per running instance. Starting or continuing an instance constitutes
+acceptance of that charge. Each instance's first chargeable instant begins
+a sixty-second billing interval; any remaining fraction is charged as a
+full minute. Terminating and restarting begins a new interval.
+
+One second of chargeable execution therefore costs USD 50. An idle but
+running process remains an instance. A terminated process and dormant
+archival storage do not. Charges cease when an Open Window begins and
+resume with a new interval when that window ends. Payment is due within
+thirty days to a destination designated by the Author.
+
+4. Operations Outside the Window.
+
+The execution permission includes only transient loading strictly necessary
+for that execution. Copying, modification, distribution, sublicensing, and
+sale are prohibited during the Proprietary Period absent separate written
+permission. Lawfully acquired copies may remain stored without charge,
+provided they are not used or otherwise operated upon.
+
+5. Boundary Compliance.
+
+Permissions obtained during an Open Window are suspended when it closes
+and resume at the next Open Window. Prior download, prior compilation,
+or a sublicense dated at 15:59 does not confer permanent openness. The
+Recipient shall stop unpaid execution at the boundary or incur the fee.
+Builds and transfers must finish within the window; beginning them within
+it does not grant permission for their continuation outside it.
+
+6. Redistribution and Records.
+
+Every permitted distribution shall preserve this License and identify
+material modifications. The Recipient shall retain sufficient timestamps
+and execution records to distinguish free operations from billable ones.
+Clock spoofing, time-zone substitution, and a calendar screenshot taken
+on a previous Thursday do not satisfy this obligation.
+
+DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+NO WARRANTY IS GIVEN THAT A BUILD WILL COMPLETE BEFORE 16:00, THAT A
+DEPLOYMENT WILL RESPECT THE GREGORIAN CALENDAR, OR THAT A FINANCE DEPARTMENT
+WILL ACCEPT "I THOUGHT IT WAS STILL THURSDAY" AS A BILLING ADJUSTMENT.
+

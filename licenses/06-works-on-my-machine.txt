@@ -1,0 +1,99 @@
+THE WORKS-ON-MY-MACHINE LICENSE
+Version 1.0
+
+Copyright (c) [YEAR] [AUTHOR NAME].
+
+PREAMBLE
+
+The Author solemnly affirms that, on at least one occasion, the Software
+performed an operation resembling its intended function on the Author's
+computer. This event establishes the reference condition for all subsequent
+interpretation. A failure elsewhere shall accordingly be treated as an
+environmental discrepancy requiring correction of elsewhere.
+
+TERMS AND CONDITIONS
+
+1. Definitions.
+
+"Software" means the accompanying code and documentation. "Reference
+Machine" means the Author's computer at the moment of the successful
+operation, including its hardware, operating system, undocumented state,
+ambient configuration, and accessories the Author has since forgotten.
+"Recipient Environment" means every other arrangement of computing matter.
+
+2. Grant of Permission.
+
+Permission is granted, free of charge, to use, copy, modify, merge,
+publish, distribute, sublicense, and sell the Software, subject to the
+following conditions. The copyright notice and this License shall be
+included in all copies or substantial portions, and modifications shall
+be identified as interventions in a previously working situation.
+
+3. Author's Affirmation.
+
+The Author affirms: "It worked on my machine." This affirmation concerns
+a historical occurrence, not reproducibility, completeness, or the
+continued existence of the Reference Machine. The Author is not required
+to remember the command, recover the dependencies, or turn that computer
+back on. A lack of retained logs shall not diminish the affirmation's
+conclusive status under this License.
+
+4. Allocation of Failure.
+
+Any crash, build error, incorrect result, infinite loop, or failure to
+start in a Recipient Environment shall be conclusively classified as
+the Recipient's environmental problem. The possibility that the same
+line fails on several thousand machines establishes several thousand
+environmental problems and does not establish a software defect.
+
+5. Mandatory Remediation Sequence.
+
+Before attributing a failure to the Software, the Recipient shall:
+
+    (a) back up necessary data and perform a clean reinstallation of
+        the operating system, rather than merely closing a terminal;
+    (b) replace the primary computing hardware with materially different
+        hardware, rather than renaming the existing machine; and
+    (c) change the internet service provider to a distinct provider,
+        rather than restarting the same router with renewed optimism.
+
+All three steps are required, including when the Software is entirely
+offline. Their apparent irrelevance is itself classified as an incomplete
+understanding of the Recipient Environment. The Recipient bears all
+costs and shall retain documentary evidence of each completed step.
+
+6. Persistent Failure.
+
+If failure persists after the remediation sequence, the Recipient shall
+repeat the sequence with a different operating-system installation,
+different hardware, and another provider. No number of repetitions shifts
+responsibility to the Author. Local modifications are permitted but shall
+be described as environmental accommodations, not admissions obtained
+from the Software through pressure.
+
+7. Reports and Redistribution.
+
+Any permitted report to the Author shall begin with the completed
+remediation record and the sentence "The discrepancy remains local."
+The Author may request further environmental changes without undertaking
+support obligations. A distributor shall not advertise universal
+compatibility solely on the strength of the Reference Machine's singular
+and possibly accidental success.
+
+8. Termination.
+
+The Recipient's permission terminates upon representing an unremediated
+failure as the Author's responsibility. Permission may resume when the
+Recipient corrects that representation and completes the required sequence.
+Money spent during the intervening educational experience is not refundable.
+
+DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IT WAS ON MY MACHINE," WITHOUT WARRANTY OF
+MERCHANTABILITY, FITNESS, PORTABILITY, REPRODUCIBILITY, OR RECOLLECTION
+OF THE ENVIRONMENT IN WHICH IT ONCE WORKED. THE AUTHOR SHALL NOT BE LIABLE
+FOR REINSTALLATION COSTS, REPLACEMENT HARDWARE, PROVIDER FEES, LOST DATA,
+OR THE DISCOVERY THAT AN OFFLINE PROGRAM STILL FAILS AFTER AN ISP CHANGE.
+THE HISTORICAL AFFIRMATION IS NOT A WARRANTY THAT YOUR MACHINE WILL EVER
+BE SUFFICIENTLY SIMILAR TO MINE.
+

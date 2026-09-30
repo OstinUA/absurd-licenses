@@ -1,0 +1,93 @@
+THE VAMPIRE LICENSE
+Version 1.0
+
+Copyright (c) [YEAR] [AUTHOR NAME].
+
+PREAMBLE
+
+The Software is intended for operation within the customary hours of
+nocturnal activity. Exposure to daylight introduces a condition the
+Author has neither tested nor consented to contemplate. This License
+therefore establishes a solar boundary around the otherwise ordinary
+rights of execution, adaptation, and the pursuit of elusive defects.
+
+TERMS AND CONDITIONS
+
+1. Definitions.
+
+"Software" means the accompanying code, binaries, and documentation.
+"Location" means the actual geographic location of the machine performing
+an operation. "Night Interval" means the period beginning at local
+astronomical sunset, inclusive, and ending at the next local astronomical
+sunrise, exclusive, as determined for that Location. Local civil time
+shall be used to express these events, but changing the clock changes
+neither the sun nor the permission.
+
+2. Nocturnal Grant.
+
+During a Night Interval, permission is granted, free of charge, to use,
+copy, modify, compile, debug, merge, publish, distribute, sublicense,
+and sell the Software. The copyright notice and this License shall
+accompany every copy or substantial portion. Modified versions remain
+subject to the same solar conditions, irrespective of their theme color.
+
+3. Daylight Prohibition.
+
+Outside a Night Interval, the Recipient shall not execute, use, compile,
+test, profile, debug, or actively modify the Software. Opening a debugger
+to "just inspect one variable" is debugging. A background process is
+execution. Automated tests are use, even when their operator is asleep.
+Cloud cover, closed curtains, basements, sunglasses, and dark mode do
+not alter the applicable sunrise or sunset.
+
+4. Storage and Suspension.
+
+Copies lawfully acquired at night may remain in dormant storage during
+daylight. This allowance does not permit background indexing, previews,
+scheduled jobs, or activity represented as storage maintenance when it
+is actually compilation. All running operations shall cease before sunrise.
+A process suspended without execution may resume after the next sunset;
+a process that merely promises to finish soon shall terminate.
+
+5. Remote and Distributed Operations.
+
+For remote execution, the server's Location controls. The Recipient's
+dark bedroom does not authorize a server situated in daylight. Each node
+of a distributed system must independently satisfy the Night Interval.
+For active remote editing or debugging, both the operator's machine and
+the executing machine must satisfy it. A deployment may migrate westward,
+provided every participating machine remains independently compliant.
+
+6. Polar and Exceptional Conditions.
+
+Where local astronomical data identify continuous polar night, the Night
+Interval continues until daylight resumes. During continuous polar day,
+no operating permission exists. Where the Recipient cannot establish
+the relevant solar events, operations shall remain suspended. Artificial
+eclipses, edited weather applications, and a colleague holding an umbrella
+shall not be submitted as astronomical evidence.
+
+7. Notices and Downstream Compliance.
+
+Distributors shall preserve these restrictions and disclose that daytime
+service availability is not licensed. The Recipient shall configure build
+systems and scheduled tasks to obey the solar boundary. A badge stating
+"24/7 uptime" constitutes an admission requiring immediate investigation,
+unless the relevant uptime is wholly dormant storage.
+
+8. Termination.
+
+Daylight operation terminates permission until the Recipient stops the
+operation and corrects the scheduling mechanism. Restoration at sunset
+does not retroactively legalize a lunchtime deployment or erase its logs.
+
+DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF DAYLIGHT
+TOLERANCE, GARLIC COMPATIBILITY, CONTINUOUS AVAILABILITY, OR FITNESS FOR
+MORNING STAND-UP MEETINGS. THE AUTHOR SHALL NOT BE LIABLE FOR SUNRISE
+INTERRUPTIONS, NOCTURNAL FATIGUE, PALE COMPLEXION, MISSED BREAKFASTS,
+OR SERVERS THAT FAIL TO TURN INTO BATS WHEN SHUT DOWN. NO WARRANTY IS
+GIVEN THAT A BUG WILL BE FOUND BEFORE DAWN OR THAT IT WILL RESPECT DAWN
+AFTER BEING FOUND.
+

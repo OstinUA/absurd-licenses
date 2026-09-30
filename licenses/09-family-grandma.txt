@@ -1,0 +1,97 @@
+THE FAMILY / GRANDMA LICENSE
+Version 1.0
+
+Copyright (c) [YEAR] [AUTHOR NAME].
+
+PREAMBLE
+
+The Author recognizes that commercial productivity has an established
+tendency to consume evenings, weekends, and the interval in which a
+close relative has been expecting a telephone call. This License makes
+continued family contact a condition of free commercial exploitation.
+The necessary consideration is attention, rendered to someone who is
+unlikely to express it as a contribution graph.
+
+TERMS AND CONDITIONS
+
+1. Definitions.
+
+"Software" means the accompanying code and documentation. "Commercial
+Use" means use in connection with revenue, employment, paid services,
+or a business activity, including one currently described as pre-revenue.
+"Participating Developer" means a natural person actively maintaining,
+integrating, or materially modifying the Software for Commercial Use.
+"Eligible Relative" means that person's mother, grandmother, or another
+close relative with whom a continuing personal relationship exists.
+
+2. Grant of Permission.
+
+Permission is granted to use, copy, modify, merge, publish, distribute,
+sublicense, and sell the Software. Noncommercial use is free of charge.
+Commercial Use is also free of charge, provided every Participating
+Developer complies with the weekly contact obligation. The copyright
+notice and this License shall accompany all copies or substantial portions.
+
+3. Weekly Contact Obligation.
+
+Each Participating Developer shall complete at least one personal voice
+or video call with an Eligible Relative in every seven consecutive days
+of participation. The first call is due no later than seven days after
+participation begins. Subsequent calls shall occur no more than seven
+days apart. Calling at opposite ends of two nominal calendar weeks
+does not justify thirteen consecutive days of silence.
+
+4. Substantive Contact.
+
+A qualifying call requires a genuine, two-way conversation of reasonable
+duration. The developer shall ask at least one question unrelated to
+software and allow the relative to answer it. A missed call, automated
+greeting, text message, synthetic voice, or thirty seconds spent requesting
+the Wi-Fi password does not satisfy this condition. A relative's request
+for printer assistance may arise during the call without invalidating it.
+
+5. Choice of Relative.
+
+The developer may choose any Eligible Relative and may alternate between
+them. Where no suitable conventional family relationship is available,
+a trusted person regarded by the developer as chosen family qualifies.
+No provision requires revival of an estranged relationship or appointment
+of a manager as an honorary grandmother. The nominated person must
+actually participate in the call; an empty contact entry is insufficient.
+
+6. Organizational Responsibility.
+
+A commercial organization shall allow its Participating Developers
+reasonable time to comply. One executive's call does not satisfy the
+obligations of the remaining engineering department. Purchased call
+credits, attendance at a sprint ceremony, and a company-wide message
+stating "we are a family" are not substitutes for personal contact.
+
+7. Privacy and Redistribution.
+
+No recording, transcript, telephone number, or family medical information
+shall be submitted to the Author. A dated private acknowledgment by the
+developer is sufficient for this License's recordkeeping purposes.
+Distributors shall preserve the weekly condition and explain that
+successful compilation is not evidence that anybody's grandmother has
+received the required call.
+
+8. Lapse and Cure.
+
+If a Participating Developer misses the interval, that developer shall
+suspend commercial development involving the Software until a qualifying
+call is completed. Continued deployment of an existing build may proceed,
+provided it is not used to conceal continued development by that person.
+The completed call restores participation; it does not transform the
+previous silence into an unusually long conversation.
+
+DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF MERCHANTABILITY,
+FITNESS, FAMILY HARMONY, OR FREEDOM FROM QUESTIONS ABOUT WHETHER THE
+RECIPIENT IS EATING PROPERLY. THE AUTHOR SHALL NOT BE LIABLE FOR EXTENDED
+CONVERSATIONS, UNSOLICITED LIFE ADVICE, INHERITED RECIPES, OR A RELATIVE'S
+BELIEF THAT ALL COMPUTING PROBLEMS FALL WITHIN THE RECIPIENT'S EXPERTISE.
+NO WARRANTY IS GIVEN THAT A WEEKLY CALL WILL BE SHORT, BUT THE POSSIBILITY
+THAT IT WILL BE LONG DOES NOT EXTINGUISH THE OBLIGATION TO MAKE IT.
+

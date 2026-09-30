@@ -1,0 +1,91 @@
+THE FOOD-WARE LICENSE
+Version 1.0
+
+Copyright (c) [YEAR] [AUTHOR NAME].
+
+PREAMBLE
+
+The Author recognizes that software value is frequently created through
+unpaid labor and sustained through items available on a cafe menu.
+This License substitutes a modest obligation of hospitality for royalties,
+subscription administration, and the manufacture of invoices whose total
+would be less than the price of preparing them. Consideration shall be
+rendered in a form capable of occupying a table.
+
+TERMS AND CONDITIONS
+
+1. Definitions.
+
+"Software" means the accompanying work and documentation. "Material
+Benefit" means saved time, solved difficulty, earned revenue, avoided
+reimplementation, or any other advantage the Recipient would reasonably
+describe as "that was useful." "Encounter" means a voluntary, in-person
+meeting at which the Author and Recipient are physically present.
+
+2. Grant of Permission.
+
+Permission is granted to use, copy, modify, merge, publish, distribute,
+sublicense, and sell the Software, subject to preservation of the
+copyright notice and this License. No advance payment is required.
+Experiments that produce no Material Benefit do not create a catering
+obligation merely because the experimenter became hungry.
+
+3. Hospitality Obligation.
+
+Upon obtaining Material Benefit, the Recipient incurs one obligation to
+purchase for the Author a pizza, a beer, or a coffee at the next suitable
+Encounter. The Author may select among these categories. If the selected
+item is unavailable or inconsistent with the Author's dietary preferences,
+the parties shall select an equivalent refreshment of comparable ordinary
+value. An image of a pizza is not equivalent consideration.
+
+4. Manner of Performance.
+
+The purchased item shall be of normal serving size, reasonably edible
+or drinkable, and acquired from a lawful establishment or equivalent
+supplier. Coupons are permitted; an empty cup accompanied by an account
+of a discount is not. The Recipient shall bear the purchase price and
+shall not seek reimbursement from the Author as "shared infrastructure."
+
+5. No Compulsory Encounter.
+
+Neither party is required to travel, disclose a home address, attend a
+conference, or engineer a coincidental meeting. If no Encounter occurs,
+the obligation remains pending without interest and without suspending
+the Software permissions. A mutually accepted remote food delivery or
+gift card may discharge it. Unrequested deliveries do not establish an
+Encounter and may establish only a logistical problem.
+
+6. Frequency and Corporate Use.
+
+One completed refreshment transaction discharges the obligation for the
+Recipient's use of this version of the Software, including repeated
+benefits from it. A corporate Recipient may nominate a representative
+to purchase the item. Neither the number of CPU cores nor the number of
+shareholders multiplies the required pizzas unless separately agreed.
+
+7. Redistribution and Modification.
+
+Modified copies shall identify material changes and retain this License.
+Each downstream Recipient independently assesses Material Benefit and
+incurs its own hospitality obligation. The original Author remains the
+beneficiary unless the applicable copyright holder expressly designates
+another hungry person. A distributor shall not claim that a pizza has
+been bought on everyone's behalf without the Author's written agreement.
+
+8. Breach and Cure.
+
+A Recipient who refuses the obligation at a suitable Encounter after
+having obtained Material Benefit shall suspend further use until the
+item is purchased or the Author expressly waives it. Payment disputes
+shall be resolved with reasonable regard for menu availability and the
+fact that the Software was intended to save time.
+
+DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF MERCHANTABILITY,
+FITNESS, OR NUTRITIONAL ADEQUACY. THE AUTHOR SHALL NOT BE LIABLE FOR BUGS,
+CAFFEINE INTAKE, MELTED CHEESE, POOR SERVICE, OR EXPECTATIONS THAT A DRINK
+PURCHASE INCLUDES UNLIMITED TECHNICAL SUPPORT. THE AUTHOR MAKES NO WARRANTY
+THAT THE SELECTED PIZZA WILL IMPROVE THE SOFTWARE OR THAT DISCUSSING A
+STACK TRACE OVER COFFEE WILL IMPROVE THE COFFEE.

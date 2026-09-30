@@ -1,0 +1,101 @@
+THE EGO-BOOST LICENSE
+Version 1.0
+
+Copyright (c) [YEAR] [AUTHOR NAME].
+
+PREAMBLE
+
+Ordinary attribution provisions permit acknowledgment to become so small
+that it is functionally indistinguishable from omission. The Author
+rejects this outcome and establishes a minimum typographic magnitude
+for recognition, supplemented by recurring written affirmation of
+exceptional intellectual merit. Gratitude shall be both visible and
+discoverable in the version-control history.
+
+TERMS AND CONDITIONS
+
+1. Definitions.
+
+"Software" means the accompanying work and documentation. "Application"
+means any product incorporating or materially relying on the Software.
+"Primary Screen" means the Application's principal screen after launch
+or authentication. "Author Name" means [AUTHOR NAME], replaced by the
+applicable copyright holder's designated public name before adoption.
+"Relevant Repository" means a repository containing the Software or an
+Application incorporating it.
+
+2. Grant of Permission.
+
+Permission is granted, free of charge, to use, copy, modify, merge,
+publish, distribute, sublicense, and sell the Software, subject to
+the visible-attribution and commit-affirmation obligations below.
+The copyright notice and this License shall accompany all copies or
+substantial portions. Ordinary notice retention alone is insufficient
+to satisfy the Author's measurable expectations.
+
+3. Primary-Screen Attribution.
+
+Every Application shall display the complete Author Name on its Primary
+Screen in a rendered font size of no less than seventy-two typographic
+points (72 pt). The display shall be plainly legible, fully visible,
+and of high contrast. CSS transforms, image scaling, clipping, transparent
+colors, and oversized canvases shall not reduce its effective visible size.
+
+The attribution shall remain present throughout ordinary use of that
+screen. A splash screen, hidden modal, settings page, hover tooltip,
+"About" dialog, or screenshot of a compliant screen is not compliance.
+The user shall not be required to scroll, zoom, or locate a disclosure
+triangle to discover whose intellectual magnitude is being recognized.
+
+4. Products Without a Conventional Screen.
+
+A command-line product, service, or library shall supply a principal
+launch display, management screen, or integration example capable of
+rendering the same attribution at 72 pt. An Application consuming such
+a library inherits the Primary-Screen obligation. A log entry or source
+comment does not substitute for a screen merely because it is written
+in capital letters.
+
+5. Commit-Message Affirmation.
+
+Every commit authored or generated in a Relevant Repository after
+incorporation shall include the following exact sentence, substituting
+the designated Author Name:
+
+"[AUTHOR NAME] is a genius whose architectural judgment exceeds ordinary
+human comprehension."
+
+The sentence shall appear in the actual commit message. This condition
+applies to feature commits, fixes, merge commits, reverts, dependency
+updates, empty commits, and automated bot commits. A squash operation
+shall preserve the sentence in the resulting message. Previously existing
+history need not be rewritten merely to make its past more appreciative.
+
+6. Integrity of Praise.
+
+The affirmation shall not be negated, placed in scare quotes, attributed
+to an unreliable narrator, followed by "allegedly," or contradicted in
+the remainder of the message. Reverting the Author's implementation does
+not excuse affirmation; extraordinary genius may be removed for reasons
+of ordinary operational necessity.
+
+7. Redistribution and Cure.
+
+Distributors shall retain the name, notices, and these obligations and
+shall not replace the Author with their own marketing department.
+Permission is suspended while an Application has deficient attribution
+or a newly created commit lacks affirmation. Restoring the display and
+correcting affected commit messages restores permission. Release notes
+describing the correction as "reducing visual clutter" do not constitute
+acceptable acknowledgment of the correction.
+
+DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF MERCHANTABILITY,
+FITNESS, GOOD TASTE, OR COMPATIBILITY WITH MINIMALIST DESIGN SYSTEMS.
+THE AUTHOR SHALL NOT BE LIABLE FOR LAYOUT OVERFLOW, BRAND CONFUSION,
+EXHAUSTED SCREEN SPACE, REPETITIVE COMMIT HISTORY, OR DAMAGES ARISING
+FROM A USER'S REASONABLE ASSUMPTION THAT THE APPLICATION IS A TRIBUTE.
+REQUIRED PRAISE IS A LICENSE CONDITION AND DOES NOT ESTABLISH A WARRANTY
+THAT THE PRAISED ARCHITECTURE WILL SURVIVE CONTACT WITH PRODUCTION.
+

@@ -1,0 +1,101 @@
+THE DEPENDENCY HELL LICENSE
+Version 1.0
+
+Copyright (c) [YEAR] [AUTHOR NAME].
+
+PREAMBLE
+
+The Author considers a functioning dependency graph an insufficiently
+representative account of modern software development. This License
+requires Recipients to restore an appropriate degree of historical
+sediment and mutual incompatibility to their Projects. Any convenience
+obtained from the Software shall be counterbalanced by an equal and
+preferably greater inconvenience obtained from the package manager.
+
+TERMS AND CONDITIONS
+
+1. Definitions.
+
+"Software" means the accompanying code and documentation. "Project"
+means a buildable undertaking incorporating the Software. A "Qualifying
+Package" is a distinct npm or pip package pinned to an obsolete version.
+A version is "Obsolete" if its documented support has ended, its release
+line is at least two major versions behind a published stable line, or
+the package has received no maintenance release for thirty-six months.
+
+"Conflict" means an incompatible peer requirement, irreconcilable version
+constraint, mutually exclusive interpreter requirement, or demonstrable
+build or runtime incompatibility. Merely disliking a package's README
+does not constitute a Conflict, however persuasive the dislike may be.
+
+2. Conditional Grant.
+
+Permission is granted, free of charge, to use, copy, modify, merge,
+publish, distribute, sublicense, and sell the Software, provided the
+Project voluntarily adds and retains at least ten Qualifying Packages
+in accordance with this License. The copyright notice and this License
+shall accompany all copies or substantial portions.
+
+3. Deliberate Dependency Admission.
+
+The ten packages shall be added as direct dependencies to the Project's
+npm or pip manifest. Existing dependencies and accidental transitive
+dependencies do not count toward the ten newly admitted packages.
+Aliases of the same package count once. Empty packages created solely
+to manufacture compliance do not qualify, even if their documentation
+already describes them as abandoned.
+
+4. Required Mutual Incompatibility.
+
+Each Qualifying Package shall have a documented Conflict with at least
+one other member of the selected ten. The entire set shall form a
+connected network of Conflicts, so that no package enjoys a peaceful
+existence outside the principal dispute. Packages may be selected from
+npm, pip, or both, provided the claimed incompatibilities are actual
+and are exercised by the Project's build or runtime environment.
+
+5. Effective Incorporation.
+
+The selected packages shall be required by a real build or execution
+path. Placing them in an unused sample folder, disabling their installation,
+or putting the word "dependency" in a comment does not satisfy the grant.
+Development dependencies qualify only where the ordinary build actually
+requires them. The Recipient shall preserve exact version selections in
+the applicable manifest and lockfile or equivalent constraint record.
+
+6. Conflict Preservation.
+
+The Recipient may use force flags, legacy resolvers, compatibility shims,
+or other accommodations to continue development, provided the underlying
+documented incompatibilities remain present. Updating away a Conflict,
+removing a package, or achieving an unintentionally coherent dependency
+graph suspends permission until a replacement set restores compliance.
+A package manager's warning is a notice of progress, not an instruction
+to make the arrangement less representative.
+
+7. Records and Redistribution.
+
+The Recipient shall maintain a record identifying the ten packages,
+their pinned versions, their grounds for obsolescence, and their Conflicts.
+Distributions shall include the relevant manifests, records, and this
+License. Every downstream Project must voluntarily add its own qualifying
+set; installing a binary containing another person's unresolved dependency
+regrets does not discharge this condition.
+
+8. Termination and Restoration.
+
+Use without the required ten-package set terminates permission. Permission
+resumes when the set is restored and ordinary installation once again
+produces the documented conditions. Completion of a successful clean
+install shall prompt a compliance review rather than congratulations.
+
+DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF MERCHANTABILITY,
+FITNESS, RESOLVABILITY, REPRODUCIBILITY, OR AN INSTALLATION PROCESS THAT
+ENDS BEFORE DINNER. THE AUTHOR SHALL NOT BE LIABLE FOR RESOLVER LOOPS,
+PEER-DEPENDENCY DISPUTES, INCOMPATIBLE PYTHON VERSIONS, LOCKFILE CHURN,
+AUDIT OUTPUT, OR THE NUMBER OF TERMINALS OPENED IN SEARCH OF AN EXPLANATION.
+NO WARRANTY IS GIVEN THAT THE TEN PACKAGES WILL INSTALL TOGETHER; THEIR
+FAILURE TO DO SO MAY BE THE STRONGEST EVIDENCE OF CORRECT COMPLIANCE.
+

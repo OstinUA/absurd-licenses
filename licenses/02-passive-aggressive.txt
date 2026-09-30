@@ -1,0 +1,92 @@
+THE PASSIVE-AGGRESSIVE LICENSE
+Version 1.0
+
+Copyright (c) [YEAR] [AUTHOR NAME].
+
+PREAMBLE
+
+Software freedom is compatible with the Author's freedom from further
+notification. The Author has already formed a sufficiently adverse
+opinion of the Software and requires no independent corroboration.
+This License permits productive use while protecting the finite
+emotional resources otherwise consumed by reports beginning with
+"I noticed something" and ending with an architectural diagram.
+
+TERMS AND CONDITIONS
+
+1. Definitions.
+
+"Software" means this work and its accompanying documentation. "Author"
+means the copyright holder, including the same person operating under
+a different username in an unsuccessful attempt to obtain peace.
+"Prohibited Feedback" means a bug report, support request, architectural
+critique, unsolicited optimization proposal, or communication reasonably
+capable of reminding the Author that the Software exists.
+
+2. Grant of Permission.
+
+Permission is granted, free of charge, to use, copy, modify, merge,
+publish, distribute, sublicense, and sell copies of the Software, subject
+to this License. The Recipient may repair any defect locally and may
+publish a fork. These permissions do not create a corresponding right
+to describe the repair to the Author.
+
+3. Mandatory Silence.
+
+The Recipient shall not open an Issue, Discussion, support ticket, or
+equivalent item in any Author-controlled venue. The Recipient shall not
+report bugs to the Author by email, direct message, mention, comment,
+telephone, conference encounter, or intermediary. A message labeled
+"not a bug report" remains a bug report when it contains a bug report.
+
+4. Architectural Nonaggression.
+
+The Recipient shall not criticize the Software's architecture, naming,
+test coverage, dependency choices, or use of a global variable where
+several smaller global variables might have been preferable. Prohibited
+conduct includes public commentary attributable to the Recipient,
+reaction images, sarcastic praise, and diagrams whose arrows imply
+disappointment. Private recognition that the code is unfortunate is
+permitted, provided it remains private and acoustically contained.
+
+5. Contributions and Independent Maintenance.
+
+No unsolicited Pull Request may be submitted to an Author-controlled
+repository. A private fork may have its own issue tracker, provided
+it neither notifies nor tags the Author and does not solicit forbidden
+criticism. The Recipient shall describe differences as "local preferences"
+rather than "fixing what the Author should obviously have done."
+
+6. Notices and Downstream Recipients.
+
+The copyright notice and this License shall accompany all copies or
+substantial portions of the Software. Distributors shall inform downstream
+recipients of the silence obligations before directing them to the
+Author's profile. Neither distribution nor attribution constitutes
+permission to include the Author in a troubleshooting group chat.
+
+7. Support and Waiver.
+
+No maintenance, explanation, roadmap, or reassuring response is promised.
+The Author may invite a specific contribution in writing. Such invitation
+waives the relevant restriction only for that contribution and shall not
+be interpreted as evidence that the Author is "finally accepting feedback."
+
+8. Termination.
+
+Permission terminates upon the first prohibited communication or critique.
+Deleting an Issue after the Author has received the notification does not
+retroactively restore the emotional condition prevailing before receipt.
+Reinstatement requires express written permission, requested only through
+a channel the Author has expressly designated for that purpose.
+
+DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND WITH THE AUTHOR'S FULL PRIOR AWARENESS
+OF ITS SHORTCOMINGS. NO WARRANTY OF CORRECTNESS, MAINTAINABILITY, FITNESS,
+OR WILLINGNESS TO DISCUSS ANY OF THE FOREGOING IS GIVEN. THE AUTHOR SHALL
+NOT BE LIABLE FOR DATA LOSS, UNANSWERED QUESTIONS, TECHNICAL DEBT, OR
+DISTRESS CAUSED BY REALIZING THAT A DESIGN DECISION WAS INTENTIONAL. THE
+AUTHOR'S KNOWLEDGE THAT THE CODE IS TERRIBLE DOES NOT CREATE A DUTY TO
+READ YOUR EXPLANATION OF WHY.
+

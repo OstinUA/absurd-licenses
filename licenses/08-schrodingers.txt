@@ -1,0 +1,96 @@
+THE SCHRÖDINGER'S LICENSE
+Version 1.0
+
+Copyright (c) [YEAR] [AUTHOR NAME].
+
+PREAMBLE
+
+Before observation, the Software occupies a superposition of open and
+closed licensing states. The first bona fide compilation constitutes
+the measurement that resolves this condition. The Author declines to
+collapse the state in advance merely to satisfy a dependency spreadsheet.
+Successful certainty carries a modest price; failure remains freely
+available in accordance with established development experience.
+
+TERMS AND CONDITIONS
+
+1. Definitions.
+
+"Software" means the accompanying code and documentation. An "Observation
+Unit" is an independently maintained project incorporating the Software.
+The "First Attempt" is that project's first bona fide compilation of the
+Software, using a normally configured compiler and its customary diagnostic
+settings. Where no compilation step exists, the first ordinary syntax
+check, import, or load serving the same validating function is substituted.
+
+2. Unobserved State.
+
+Before the First Attempt, the Software shall be deemed simultaneously
+open and proprietary. The Recipient may obtain, inspect, copy, and prepare
+modifications solely to enable observation, subject to preserving this
+License. Production use, sale, and final claims about license status
+shall await observation. Asking another developer to compile it on the
+Recipient's behalf is observation, not a means of avoiding observation.
+
+3. Error Outcome: Free State.
+
+If the First Attempt fails with a genuine compilation error, the Software
+collapses into the Free State for that Observation Unit. Permission is
+then granted, free of charge, to use, copy, modify, merge, publish,
+distribute, sublicense, and sell it, including versions subsequently
+repaired by the Recipient. Success after the first failure does not
+retroactively create a fee. The initial error has performed useful work.
+
+4. Clean Success Outcome: Five-Dollar State.
+
+If the First Attempt succeeds on the first try without any warnings,
+the Software collapses into the Five-Dollar State. The Recipient owes
+the Author USD 5, payable within thirty days to a destination designated
+by the Author. The same permissions listed in Clause 3 are granted
+subject to that payment. There is one fee per Observation Unit, not per
+rebuild, executable, processor, or subsequent moment of satisfaction.
+
+5. Other Outcomes.
+
+A successful First Attempt containing one or more genuine warnings
+collapses into the Free State. An attempt interrupted before a diagnostic
+result by power loss, network failure, or a missing compiler does not
+qualify as the First Attempt and leaves the state unresolved. Silence
+caused by redirecting diagnostic output is not absence of warnings.
+
+6. Honest Observation.
+
+The Recipient shall not introduce deliberate syntax errors, suppress
+warnings, sabotage dependencies, or select a deliberately incompatible
+compiler to influence the result. Ordinary good-faith adaptation before
+the First Attempt is permitted. A manipulated observation is disregarded;
+the first subsequent bona fide attempt determines the state. Deleting
+the build directory, renaming the repository, or expressing surprise
+does not reset a valid result.
+
+7. Persistence and Redistribution.
+
+The observed state applies throughout the Observation Unit's ordinary
+maintenance history. Each independently maintained downstream project
+performs its own First Attempt. Copies shall retain the copyright notice,
+this License, and any existing result record for their originating project;
+that record does not determine a distinct downstream project's outcome.
+A prebuilt distribution does not discharge the downstream obligation
+to conduct the equivalent validation described in Clause 1.
+
+8. Records and Termination.
+
+The Recipient shall retain the initial diagnostics and record the state.
+Failure to pay a due five-dollar fee suspends the resulting permissions
+until payment. Lack of a diagnostic record shall not be resolved by
+assuming whichever state is more convenient for quarterly accounting.
+
+DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED IN AN UNDETERMINED CONDITION, WITHOUT WARRANTY
+OF MERCHANTABILITY, FITNESS, COMPILABILITY, OR OBSERVER INDEPENDENCE.
+THE AUTHOR SHALL NOT BE LIABLE FOR UNCERTAINTY, BUILD FAILURES, CLEAN
+BUILDS THAT UNEXPECTEDLY COST FIVE DOLLARS, OR DISAGREEMENTS BETWEEN
+PHYSICISTS AND PROCUREMENT. NO ACTUAL CAT IS INCLUDED, REQUIRED, OR
+WARRANTED TO SURVIVE THE BUILD SYSTEM. A SECOND ATTEMPT DOES NOT CHANGE
+THE FIRST ATTEMPT MERELY BECAUSE THE RECIPIENT HAS NOW UNDERSTOOD IT.

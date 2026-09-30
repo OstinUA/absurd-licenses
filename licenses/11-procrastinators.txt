@@ -1,0 +1,94 @@
+THE PROCRASTINATOR'S LICENSE
+Version 1.0
+
+Copyright (c) [YEAR] [AUTHOR NAME].
+
+PREAMBLE
+
+The Software is supplied in recognition of the substantial intellectual
+effort devoted to postponing work while appearing to prepare for it.
+Recipients shall preserve this tradition by ensuring that the convenience
+of reuse does not accidentally result in timely delivery. The License
+therefore exchanges immediate technical permission for a definite future
+failure of project scheduling.
+
+TERMS AND CONDITIONS
+
+1. Definitions.
+
+"Software" means the accompanying code and documentation. "Project"
+means an undertaking into which the Recipient incorporates or for which
+the Recipient uses the Software. "Original Deadline" means the first
+bona fide delivery date recorded for a substantive Project milestone
+before incorporation. "Required Delay" means at least fourteen complete
+twenty-four-hour periods beyond that Original Deadline.
+
+2. Conditional Grant.
+
+Permission is granted, free of charge, to use, copy, modify, merge,
+publish, distribute, sublicense, and sell the Software, provided the
+Recipient irrevocably undertakes to miss the Original Deadline by at
+least the Required Delay. The copyright notice and this License shall
+accompany all copies or substantial portions. Permission begins upon
+that undertaking; its continuance depends upon eventual performance.
+
+3. Establishment of the Deadline.
+
+The Recipient shall record the Original Deadline and the affected
+milestone before first use. The milestone must represent a meaningful
+deliverable, rather than "consider naming a branch" or "think about
+possibly writing documentation." A Project without a deadline must
+adopt a genuine deadline before obtaining permission. An intentionally
+impossible date established solely to manufacture lateness is invalid.
+
+4. Performance of Required Delay.
+
+The affected milestone shall remain substantively undelivered until
+at least fourteen full days after its Original Deadline. Merely changing
+the calendar entry, renaming the milestone, or obtaining retrospective
+approval of a revised date does not constitute delay. An early release
+described as a preview remains delivery when it substantially supplies
+the promised result. The Recipient shall ensure actual lateness.
+
+5. Approved Preparatory Activities.
+
+The Recipient may fill the interval with framework comparisons, editor
+configuration, dashboard redesign, extensive branch naming, or further
+evaluation of whether the selected font expresses the product's values.
+These activities are illustrative and not mandatory. Sitting quietly
+while the deadline passes is sufficient if the substantive delivery
+remains late. A convincing appearance of busyness earns no fee reduction.
+
+6. Multiple Projects and Redistribution.
+
+Each distinct Project using the Software independently incurs the delay
+obligation. Lateness in a previous Project is not transferable credit.
+Downstream recipients shall preserve this License and establish their
+own Original Deadline. A distributor cannot perform everybody else's
+procrastination by delaying the package publication once.
+
+7. Records and Continuing Obligations.
+
+The Recipient shall retain the initial schedule and actual delivery
+timestamp. Routine planning changes do not alter the controlling date.
+No additional missed milestones are required after one qualifying delay
+within that Project. Further procrastination remains entirely voluntary
+and shall not be described as a requirement imposed by the Author.
+
+8. Breach and Cure.
+
+Timely delivery, or delivery less than fourteen days late, terminates
+permission for the Project. A subsequent apology to the project manager
+does not alter the delivery timestamp. Reinstatement requires express
+written waiver from the Author or performance of a new qualifying delay
+on a substantive milestone established before that milestone's due date.
+
+DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF MERCHANTABILITY,
+FITNESS, PRODUCTIVITY, OR ACCEPTABILITY AT A STATUS MEETING. THE AUTHOR
+SHALL NOT BE LIABLE FOR MISSED LAUNCHES, CANCELLED DEMONSTRATIONS, CLIENT
+DISAPPOINTMENT, PERFORMANCE REVIEWS, OR THE NEED TO EXPLAIN WHY SOFTWARE
+REUSE EXTENDED THE SCHEDULE. NO WARRANTY IS GIVEN THAT FOURTEEN DAYS WILL
+BE ENOUGH TO FINISH THE WORK, AND NOTHING HEREIN PREVENTS THE RECIPIENT
+FROM DISCOVERING THAT THE ORIGINAL ESTIMATE WAS OPTIMISTIC BY A MONTH.

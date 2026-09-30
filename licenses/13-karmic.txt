@@ -1,0 +1,97 @@
+THE KARMIC LICENSE
+Version 1.0
+
+Copyright (c) [YEAR] [AUTHOR NAME].
+
+PREAMBLE
+
+The Author recognizes that finding a defect creates knowledge, and that
+knowledge creates a modest obligation to improve the common condition.
+This License assigns the administration of neglected obligations to
+ordinary causality, subject to certain convenient metaphysical additions.
+Recipients may prefer a small Pull Request to a succession of small
+events for which there is no useful issue template.
+
+TERMS AND CONDITIONS
+
+1. Definitions.
+
+"Software" means the accompanying code and documentation. "Discovered
+Bug" means a reproducible departure from intended behavior actually
+recognized by the Recipient. "Corrective Pull Request" means a bona fide
+request containing a substantive proposed repair, an adequate explanation,
+and, where appropriate, a focused regression check. "Minor Adversity"
+means spilled coffee, misplaced keys, a damp sock, a temporarily missing
+charging cable, or a printer declining its ordinary responsibilities.
+
+2. Grant of Permission.
+
+Permission is granted, free of charge, to use, copy, modify, merge,
+publish, distribute, sublicense, and sell the Software, subject to the
+corrective obligations herein. The copyright notice and this License
+shall accompany all copies or substantial portions. Permission includes
+the right to experience the consequences of deciding that someone else
+will probably fix the Bug.
+
+3. Corrective Obligation.
+
+Upon discovering a Bug, the Recipient shall prepare and submit a
+Corrective Pull Request within seven calendar days. Opening an Issue,
+posting a complaint, adding a reaction, or writing "TODO: someone fix"
+does not satisfy the obligation. A repair confined permanently to the
+Recipient's private branch remains an undistributed improvement and
+does not restore the shared condition.
+
+4. Maintainer Independence.
+
+The obligation is satisfied by submission of a technically serious
+Corrective Pull Request; acceptance, merger, and the maintainer's mood
+are outside the Recipient's responsibility. If submission to the original
+repository is unavailable, a publicly accessible Pull Request against
+the Recipient's fork qualifies, provided it identifies the original
+work and makes the proposed repair available for incorporation.
+
+5. Attachment of Karmic Consequences.
+
+Each Discovered Bug remaining without a Corrective Pull Request after
+the seven-day period creates one outstanding karmic imbalance. Such an
+imbalance subjects the Recipient to Minor Adversity at intervals not
+disclosed by the Author. No particular spill is guaranteed, but repeated
+claims that the Bug is "someone else's problem" may be considered
+administratively relevant by the universe.
+
+6. Nature of Enforcement.
+
+Minor Adversity is cumulative, nontransferable, and not redeemable with
+repository stars. The Recipient shall not assign the imbalance to an
+intern, a corporate subsidiary, or a houseplant. A failure to establish
+the causal connection between a Bug and a missing key does not establish
+that the key was ever going to be easy to find.
+
+7. Cure and Records.
+
+Late submission of a Corrective Pull Request discharges the relevant
+imbalance prospectively. It does not unspill coffee or reverse previously
+experienced inconvenience. A Pull Request consisting solely of cosmetic
+changes does not cure an unrelated functional Bug. Distributors shall
+preserve this License; each Recipient is responsible only for Bugs they
+actually discover, not for acquiring omniscient test coverage.
+
+8. Continuing Effect.
+
+Deleting the repository or discontinuing use does not extinguish an
+already incurred corrective obligation. If an earthly authority declines
+to recognize karmic administration, the Pull Request requirement remains
+the operative condition of this instrument. The Author undertakes no
+help desk for destiny and shall not provide an estimated adversity date.
+
+DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF MERCHANTABILITY,
+FITNESS, CORRECTNESS, POSITIVE KARMA, OR CONTINUED ACCESS TO YOUR KEYS.
+THE AUTHOR SHALL NOT BE LIABLE FOR DEFECTS, COFFEE DAMAGE, TEMPORARY
+INCONVENIENCE, COSMIC ACCOUNTING ERRORS, OR ANY DETERIORATION IN THE
+RECIPIENT'S KARMIC POSITION ARISING FROM AN UNREPAIRED BUG. NO WARRANTY
+IS GIVEN THAT A MERGED PULL REQUEST WILL IMPROVE THE WEATHER, AND NO
+REFUND IS AVAILABLE FOR BAD LUCK EXPERIENCED BEFORE THE PATCH WAS SENT.
+

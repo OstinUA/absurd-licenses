@@ -1,0 +1,103 @@
+THE DEAD PROJECT LICENSE
+Version 1.0
+
+Copyright (c) [YEAR] [AUTHOR NAME].
+
+PREAMBLE
+
+The Author dedicates the Software to the long and honorable tradition
+of personal repositories that begin with ambition, acquire a polished
+README, and quietly cease to receive commits. This License protects
+that lifecycle from accidental success, prolonged maintenance, or the
+appearance of a roadmap suggesting that the original enthusiasm survived.
+The Software may have a future only in Projects that do not.
+
+TERMS AND CONDITIONS
+
+1. Definitions.
+
+"Software" means the accompanying code and documentation. A "Pet Project"
+is a personal, experimental, nonessential undertaking without contractual
+delivery obligations or dependence by a production service. "Creation
+Instant" means the earliest actual creation of its local or remote version-
+control repository. Renaming, importing, or moving an existing repository
+does not create a new Creation Instant.
+
+The "Abandonment Instant" is the corresponding date and clock time one
+Gregorian calendar month after the Creation Instant, measured in the
+time zone recorded at creation. If the following month lacks that day,
+its last day is used. Thus, a repository created on January 31 reaches
+its Abandonment Instant on the last day of February, not when the
+Recipient has finished configuring the issue labels.
+
+2. Conditional Grant.
+
+Permission is granted, free of charge, to use, copy, modify, compile,
+merge, publish, and distribute the Software solely within a qualifying
+Pet Project before its Abandonment Instant. The Recipient shall guarantee
+that the Project will be abandoned at that instant. The copyright notice
+and this License shall accompany all copies or substantial portions.
+Commercial products and Projects expected to remain maintained do not
+qualify, however modestly their owners describe their prospects.
+
+3. Commitment to Abandonment.
+
+Before first incorporation, the Recipient shall record the Creation
+Instant, Abandonment Instant, and an unequivocal undertaking to cease
+active development at the latter. A Project already older than one month
+cannot become eligible by adopting the Software. The commitment shall
+not depend on boredom, available free time, the number of stars, or
+whether someone unexpectedly offers to sponsor the repository.
+
+4. Required Terminal Condition.
+
+At the Abandonment Instant, the Recipient shall stop commits, releases,
+feature work, bug fixes, dependency updates, support, and planned use
+as an operating service. Automated maintenance jobs shall be disabled.
+The repository shall be archived where supported or prominently marked
+"ABANDONED: NO FURTHER DEVELOPMENT IS PLANNED." The roadmap may remain
+visible, provided its unchecked boxes remain permanently aspirational.
+
+5. Post-Abandonment Rights.
+
+The Recipient may retain dormant copies, display the archived source,
+and preserve a static screenshot or retrospective account of the Project.
+No active execution, maintenance, or resumed development is permitted.
+Administrative changes strictly necessary to archive, remove access,
+or delete the repository are allowed and shall not be used to introduce
+an unusually elaborate final feature.
+
+6. No Resurrection by Relabeling.
+
+The Recipient shall not restart the same Project by changing its name,
+opening a fresh repository, transferring it to an organization, or
+announcing that the abandoned version was merely a prototype. A genuinely
+independent new Pet Project may obtain its own one-month permission;
+continuation of substantially the same undertaking is a resurrection
+and requires separate written permission from the Author.
+
+7. Redistribution and Downstream Use.
+
+Redistribution shall preserve this License and the originating Project's
+recorded dates. A downstream Recipient incorporating the Software into
+a genuinely independent Pet Project incurs its own abandonment schedule.
+Forking an archived Project merely to continue its roadmap does not
+create independence or restart the original month.
+
+8. Termination.
+
+Failure to abandon on schedule immediately terminates active-use rights.
+Success, user demand, an attractive job interview, and the discovery that
+the Project is useful are not grounds for automatic extension. The
+Recipient may cure continued activity by stopping it and completing the
+terminal conditions, without thereby obtaining a new development month.
+
+DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF MERCHANTABILITY,
+FITNESS, LONGEVITY, COMMUNITY FORMATION, OR WILLINGNESS TO BECOME A STARTUP.
+THE AUTHOR SHALL NOT BE LIABLE FOR UNUSED POTENTIAL, ABANDONED DOMAINS,
+UNANSWERED ISSUES, STALE BADGES, OR EMOTIONAL ATTACHMENT TO A REPOSITORY
+THAT WAS CONTRACTUALLY REQUIRED TO STOP RECEIVING ATTENTION. NO WARRANTY
+IS GIVEN THAT THE FINAL COMMIT WILL BE CLEAN OR THAT THE README'S
+"COMING SOON" SECTION WILL EVER DESCRIBE SOMETHING THAT COMES.

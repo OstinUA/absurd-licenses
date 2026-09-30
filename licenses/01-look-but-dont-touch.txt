@@ -1,0 +1,88 @@
+THE "LOOK-BUT-DON'T-TOUCH" LICENSE
+Version 1.0
+
+Copyright (c) [YEAR] [AUTHOR NAME]. All rights reserved, including those
+which a reasonable observer might have assumed were too trivial to reserve.
+
+PREAMBLE
+
+The publication of a work does not, by itself, constitute an invitation
+to engage with that work. The Author has made the Software available for
+the limited purpose of establishing that it exists. This instrument
+preserves the distinction between public availability and permission,
+extending that distinction to visual attention, involuntary curiosity,
+and such residual mental activity as may occur immediately before sleep.
+
+TERMS AND CONDITIONS
+
+1. Definitions.
+
+"Software" means the source code, object code, documentation, repository,
+screenshots, filenames, and any substantially recognizable recollection
+thereof. "Interaction" means any act of accessing, using, executing,
+copying, modifying, distributing, inspecting, discussing, benchmarking,
+or otherwise acknowledging the Software beyond the permitted closure.
+"Tab" includes a browser tab, editor pane, terminal session, or other
+aperture through which the Software has become perceptible.
+
+2. Sole Permitted Act.
+
+The Recipient is granted a personal, nontransferable, single-purpose
+permission to close the Tab displaying the Software. This permission
+includes moving a pointer to the close control or invoking the customary
+keyboard shortcut, solely to the extent necessary to terminate exposure.
+It does not include bookmarking the Tab for subsequent closure practice.
+
+3. Ten-Second Exposure Ceiling.
+
+Incidental visual exposure shall not exceed ten cumulative seconds in
+the Recipient's lifetime. The interval begins when any portion of the
+Software first becomes visible, whether or not the Recipient understands
+it. Blinking, scrolling, averting the eyes, refreshing the page, changing
+devices, and opening a private browsing session do not reset the interval.
+The interval is an allowance for disengagement and confers no right to
+conduct even an exceptionally efficient code review.
+
+4. Prohibited Operations.
+
+The Recipient shall not clone, fork, download, copy, cache deliberately,
+print, transcribe, photograph, execute, compile, modify, redistribute,
+star, watch, index, or create a derivative work of the Software. Copying
+one line "for reference" constitutes copying. A fork maintained privately
+constitutes a fork. A screenshot of a screenshot constitutes an excess
+of initiative and remains prohibited.
+
+5. Mental Retention.
+
+The Recipient shall not intentionally reconstruct the Software from
+memory, mentally refactor it, or recollect it during the thirty minutes
+preceding intended sleep. Should unsolicited recollection arise, the
+Recipient shall promptly redirect attention to an unrelated subject,
+preferably one containing no repository structure. Dreams shall not be
+documented, reproduced, or submitted as supplementary documentation.
+
+6. No Implied Permissions.
+
+The presence of a public URL, a "Fork" button, a permissive-looking
+filename, or a functioning network connection grants no additional right.
+No permission to copy or modify the Software exists under this License.
+The Author's failure to observe an Interaction is not a waiver of it.
+
+7. Termination.
+
+Any unauthorized Interaction immediately terminates the closure
+permission. The Recipient shall nevertheless close the Tab as a remedial
+obligation, without construing that obligation as renewed permission.
+All reserved rights survive termination, including rights concerning
+memories the Recipient would prefer to characterize as insignificant.
+
+DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS VISIBLE," WITHOUT WARRANTY OF MERCHANTABILITY,
+FITNESS FOR ANY PURPOSE, LEGIBILITY, OR SAFE DURATION OF OBSERVATION. THE
+AUTHOR DOES NOT WARRANT THAT TEN SECONDS WILL SUFFICE TO UNDERSTAND THE
+REPOSITORY, LOCATE THE CLOSE CONTROL, OR RECOVER FROM A PARTICULARLY
+COMPELLING VARIABLE NAME. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+CURIOSITY, EYE STRAIN, UNFINISHED THOUGHTS, PRE-SLEEP RECOLLECTION, OR
+DAMAGES ARISING FROM A TAB THE RECIPIENT HAD EVERY OPPORTUNITY TO CLOSE.
+
